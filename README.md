@@ -4,15 +4,3 @@ It is made using Python , Django for back-end and bootstrap for front-end, It wo
 
 
 
-
-
-
-
-
-
-
-
-
-
-
-
